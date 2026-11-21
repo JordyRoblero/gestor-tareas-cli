@@ -34,7 +34,7 @@ if __name__ == "__main__":
         mostrar_menu()
         opcion = input("Seleccione una opción: ")
 
-        if opcion == "1":
+        if opcion == "1":  # opcion actualizada del menu principal
             agregar_tarea()
         elif opcion == "2":
             listar_tareas()
