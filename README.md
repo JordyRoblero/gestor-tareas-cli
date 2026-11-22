@@ -21,4 +21,4 @@ Ejecutar el siguiente comando:
 python app.py
 
 ## Autor
-Tu nombre
+Jordy Roblero
